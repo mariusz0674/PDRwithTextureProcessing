@@ -1,0 +1,4 @@
+D:/DDocuments/Uczelniane/InzynierkaBoot/PDRFinal/CMakeFiles/PDRLib.dir
+D:/DDocuments/Uczelniane/InzynierkaBoot/PDRFinal/CMakeFiles/PDR.dir
+D:/DDocuments/Uczelniane/InzynierkaBoot/PDRFinal/CMakeFiles/ALL_BUILD.dir
+D:/DDocuments/Uczelniane/InzynierkaBoot/PDRFinal/CMakeFiles/ZERO_CHECK.dir

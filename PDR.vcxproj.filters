@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\DDocuments\Uczelniane\Inzynierka\pdr - Copy\src\PoznanDepthRefinement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\DDocuments\Uczelniane\Inzynierka\pdr - Copy\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2BD591DA-B2AD-3683-8195-8C141ACEF2A4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
